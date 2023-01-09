@@ -13,3 +13,5 @@ Dia 3: Fluxo de controle e operadores lógicos.
 
 Dia 4: Randomização e listas Python.
 
+Dia 5: Loops Python.
+
