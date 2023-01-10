@@ -17,3 +17,6 @@ Dia 5: Loops Python.
 
 Dia 6: Funções Python.
 
+Dia 7: Hangman.
+
+Dia 8: Parâmetros de Função e Cifra de César.
