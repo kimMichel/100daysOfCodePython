@@ -15,3 +15,5 @@ Dia 4: Randomização e listas Python.
 
 Dia 5: Loops Python.
 
+Dia 6: Funções Python.
+
