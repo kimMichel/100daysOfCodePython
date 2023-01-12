@@ -1,24 +1,22 @@
 # 100daysOfCodePython
-100 dias de código em Python
+100 days of Code with Python.
 
-Fazendo o curso da Udemy "100 days of code" ministrado pela Dr. Angela Yu.
+### Beginner
 
-### Iniciante
+Day 1: Working with Variables in Python to Manage Data.
 
-Dia 1: Trabalhando com variáveis para gerenciar dados.
+Day 2: Understanding Data Types and How to Manipulate Strings.
 
-Dia 2: Compreendendo os tipos de dados e como manipular strings.
+Day 3: Control Flow and Logical Operators.
 
-Dia 3: Fluxo de controle e operadores lógicos.
+Day 4: Randomization and Python Lists.
 
-Dia 4: Randomização e listas Python.
+Day 5: Loops Python.
 
-Dia 5: Loops Python.
+Day 6: Python Functionss.
 
-Dia 6: Funções Python.
+Day 7: Hangman.
 
-Dia 7: Hangman.
+Day 8: Funciton Parameters & Caesar Cipher. 
 
-Dia 8: Parâmetros de Função e Cifra de César.
-
-Dia 9: Dicionários, aninhamento e leilão secreto
+Day 9: Dictionaries, Nesting and the Secret Auction.
