@@ -1,4 +1,5 @@
 from art import logo
+from replit import clear
 
 join_player = True
 players_bid = {}
@@ -18,7 +19,7 @@ while join_player:
 
     have_other_player = input("Are there any other bidders? Type 'yes' or 'no'.").lower()
     if have_other_player == "yes":
-        print("clear")
+        clear()
     else:
         join_player = False
         find_highest_bid()
